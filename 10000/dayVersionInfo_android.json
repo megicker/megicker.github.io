@@ -1,0 +1,51 @@
+{
+    "version": "1.0",
+    "version_code": 1,
+    "bundle": "1",
+    "download_url_apk": "http://tt09.app",
+    "download_url_ipa": "http://tt09.app",
+    "games": {
+        "lhd": [
+            {
+                "path": "resource/x2/app/games/assets/lhd",
+                "version": "1.0.3",
+                "delete": true,
+                "download_url": "http://megicker.github.io/yylg/public/game2x/lhd/1.0.0.zip",
+                "size": "2.49"
+            }
+        ],
+        "nn": [
+            {
+                "default_local": false,
+                "download_url": "http://megicker.github.io/yylg/public/game2x/nn/1.0.0.zip",
+                "version": "1.0.3",
+                "path": "resource/x2/app/games/assets/nn",
+                "size": "3.56",
+                "delete": true
+            }
+        ],
+        "yxx": [
+            {
+                "default_local": false,
+                "download_url": "http://megicker.github.io/yylg/public/game2x/yxx/1.0.0.zip",
+                "version": "1.0.2",
+                "path": "resource/x2/app/games/assets/yxx",
+                "size": "2.11",
+                "delete": true
+            }
+        ],
+        "sb": [
+            {
+                "default_local": false,
+                "download_url": "http://megicker.github.io/yylg/public/game2x/sb/1.0.0.zip",
+                "version": "1.0.3",
+                "path": "resource/x2/app/games/assets/sb",
+                "size": "2.57",
+                "delete": true
+            }
+        ]
+    },
+    "key": "9C34234439F36880567BA4CE659D14E9",
+    "game_url": "http://megicker.github.io/yylg/public/game2x/index.html",
+    "game_path": "resource/x2/app/games/assets"
+}
