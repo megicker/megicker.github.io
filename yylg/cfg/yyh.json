@@ -1,3 +1,18 @@
 {
-    "dd": ""
+    "NETWORK_CONFIG": "http://megicker.github.io/yylg/cfg/yyh.json",
+    "SOCKET_SSL": false,
+    "SOCKET_PORT": 7999,
+    "SOCKET_HOST": "lg.2v64.com",
+    "HTTP_HOST": "",
+    "API_HOST": "http://tel.2v65.com:8111",
+    "SEND_CODE_API": "/api/sendsms",
+    "APP_ID": "",
+    "VERSION": "",
+    "PLATFORM_ID": "",
+    "Trumpet": "",
+    "Bulletin": "",
+    "CustomerDomain": "",
+    "CustomerDomainWX": "",
+    "newPay": "",
+    "ReportWeChat": ""
 }
