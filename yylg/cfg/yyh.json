@@ -12,7 +12,7 @@
     "Trumpet": "",
     "Bulletin": "",
     "CustomerDomain": "",
-    "CustomerDomainWX": "",
+    "CustomerDomainWX": "http://megicker.github.io/yylg/configFile/h5config.json",
     "newPay": "",
     "ReportWeChat": ""
 }
