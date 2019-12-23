@@ -46,6 +46,18 @@
                 "delete": true
             }
         ],
+        "app": [
+            {
+                "default_local": false,
+                "download_url": "https://yongyinghui.oss-cn-hangzhou.aliyuncs.com/yylg/public/game3x/app/1.0.0.zip",
+                "version": "1.0.1",
+                "update_code": "17",
+                "path": "resource/x3/app",
+                "default_download": true,
+                "delete": false,
+                "size": "1"
+            }
+        ],
         "json": [
             {
                 "default_local": false,
