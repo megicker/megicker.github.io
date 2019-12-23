@@ -1,5 +1,5 @@
 {
-    "NETWORK_CONFIG": "http://cfg.2v65.com:8114/yylg/cfg/yyh.json",
+    "NETWORK_CONFIG": "https://yongyinghui.oss-cn-hangzhou.aliyuncs.com/yylg/cfg/yyh.json",
     "SOCKET_SSL": false,
     "SOCKET_PORT": 7999,
     "SOCKET_HOST": "lg.2v64.com",
@@ -12,7 +12,7 @@
     "Trumpet": "",
     "Bulletin": "",
     "CustomerDomain": "",
-    "CustomerDomainWX": "http://cfg.2v65.com:8114/yylg/configFile/h5config.json",
+    "CustomerDomainWX": "https://yongyinghui.oss-cn-hangzhou.aliyuncs.com/yylg/configFile/h5config.json",
     "newPay": "",
     "ReportWeChat": ""
 }
