@@ -28,8 +28,8 @@
             {
                 "default_local": false,
                 "download_url": "https://yongyinghui.oss-cn-hangzhou.aliyuncs.com/yylg/public/game2x/minjs/1.0.0.zip",
-                "version": "1.0.1",
-                "update_code": "17",
+                "version": "1.0.3",
+                "update_code": "18",
                 "path": "js",
                 "default_download": true,
                 "delete": false,
@@ -50,8 +50,8 @@
             {
                 "default_local": false,
                 "download_url": "https://yongyinghui.oss-cn-hangzhou.aliyuncs.com/yylg/public/game2x/app/1.0.0.zip",
-                "version": "1.0.1",
-                "update_code": "17",
+                "version": "1.0.3",
+                "update_code": "18",
                 "path": "resource/x2/app",
                 "default_download": true,
                 "delete": false,
@@ -62,8 +62,8 @@
             {
                 "default_local": false,
                 "download_url": "https://yongyinghui.oss-cn-hangzhou.aliyuncs.com/yylg/public/game2x/json/1.0.0.zip",
-                "version": "1.0.1",
-                "update_code": "17",
+                "version": "1.0.3",
+                "update_code": "18",
                 "path": "resource/x2",
                 "default_download": true,
                 "delete": false,

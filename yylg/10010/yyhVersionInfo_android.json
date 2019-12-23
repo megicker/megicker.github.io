@@ -46,18 +46,6 @@
                 "delete": true
             }
         ],
-        "app": [
-            {
-                "default_local": false,
-                "download_url": "https://yongyinghui.oss-cn-hangzhou.aliyuncs.com/yylg/public/game2x/app/1.0.0.zip",
-                "version": "1.0.3",
-                "update_code": "18",
-                "path": "resource/x2/app",
-                "default_download": true,
-                "delete": false,
-                "size": "1"
-            }
-        ],
         "json": [
             {
                 "default_local": false,
@@ -81,7 +69,7 @@
             }
         ]
     },
-    "key": "A4D7B558AFDDADCC8D35EE477DF776CB",
+    "key": "9C34234439F36880567BA4CE659D14E9",
     "game_url": "https://yongyinghui.oss-cn-hangzhou.aliyuncs.com/yylg/public/game2x/index.html",
     "game_path": "resource/x2/app/games/assets"
 }
